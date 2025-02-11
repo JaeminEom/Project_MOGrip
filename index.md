@@ -46,12 +46,17 @@ grasping.
 
 ---
 
-<div style="text-align: center;">
-    <h2>Video</h2>
+<div class="columns is-centered has-text-centered">
+    <div class="column is-four-fifths">
+        <h2>Video</h2>
+        <div class="content has-text-justified">
+This video explains the research motivation, the mechanism design of the proposed gripper, and its applications.
+        </div>
+    </div>
 </div>
 
 <div align="center">
-    <iframe width="640" height="360" 
+    <iframe width="720" height="405" 
             src="https://www.youtube.com/embed/qFD562zo4Vk" 
             frameborder="0" allowfullscreen>
     </iframe>
@@ -63,21 +68,21 @@ grasping.
     <!-- Left Column: YouTube 비디오 (Visual Effects) -->
     <div class="column">
         <h3 class="title">Demo - Logistics</h3>
-        <p>Using <em>nerfies</em> you can create fun visual effects. This Dolly zoom effect would be impossible without nerfies since it would require going through a wall.</p>
         <iframe width="100%" height="315"
                 src="https://www.youtube.com/embed/ecViSuzARwk?autoplay=1&mute=1&loop=1&playlist=ecViSuzARwk&controls=0"
                 frameborder="0" allowfullscreen>
         </iframe>
+        <p>A lab-scale logistics demonstration was conducted to validate that the developed gripper can selectively pick up and transport multiple objects together.</p>
     </div>
 
     <!-- Right Column: YouTube 비디오 (Matting) -->
     <div class="column">
         <h3 class="title">Comparison - Single-Object Grasping</h3>
-        <p>As a byproduct of our method, we can also solve the matting problem by ignoring samples that fall outside of a bounding box during rendering..</p>
         <iframe width="100%" height="315"
                 src="https://www.youtube.com/embed/-rwAbY39Fcw?autoplay=1&mute=1&loop=1&playlist=-rwAbY39Fcw&controls=0"
                 frameborder="0" allowfullscreen>
         </iframe>
+        <p>Compared to the same demonstration performed with single-object grasping, the proposed multi-object gripper reduced the end-effector's travel distance by approximately 71% and the overall process time by about 34%.</p>
     </div>
 </div>
 
@@ -87,21 +92,21 @@ grasping.
     <!-- Left Column: YouTube 비디오 (Visual Effects) -->
     <div class="column">
         <h3 class="title">Demo - Domestics</h3>
-        <p>Using <em>nerfies</em> you can create fun visual effects. This Dolly zoom effect would be impossible without nerfies since it would require going through a wall.</p>
         <iframe width="100%" height="315"
                 src="https://www.youtube.com/embed/5ofxzuH4yJU?autoplay=1&mute=1&loop=1&playlist=5ofxzuH4yJU&controls=0"
                 frameborder="0" allowfullscreen>
         </iframe>
+        <p>To verify that the proposed gripper can place the stored objects in their desired locations, we demonstrated a gripper tidying up a cluttered desk in a domestic environment.</p>
     </div>
 
     <!-- Right Column: YouTube 비디오 (Matting) -->
     <div class="column">
         <h3 class="title">Pick and Place Various Objects</h3>
-        <p>As a byproduct of our method, we can also solve the matting problem by ignoring samples that fall outside of a bounding box during rendering.</p>
         <iframe width="100%" height="315"
                 src="https://www.youtube.com/embed/eDikWCNutgM?autoplay=1&mute=1&loop=1&playlist=eDikWCNutgM&controls=0"
                 frameborder="0" allowfullscreen>
         </iframe>
+        <p>The gripper also successfully grasped, stored, retrieved, and placed 23 different types of objects due to the adaptability of its fingers and conveyor palm.</p>
     </div>
 </div>
 
