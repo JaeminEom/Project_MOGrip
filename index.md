@@ -69,7 +69,7 @@ This video explains the research motivation, the mechanism design of the propose
     <div class="column">
         <h3 class="title">Demo - Logistics</h3>
         <iframe width="100%" height="315"
-                src="https://www.youtube.com/embed/ecViSuzARwk?autoplay=1&mute=1&loop=1&playlist=ecViSuzARwk&controls=0"
+                src="https://www.youtube.com/embed/ecViSuzARwk?autoplay=1&mute=1&loop=1&playlist=ecViSuzARwk&controls=1&fs=1"
                 frameborder="0" allowfullscreen>
         </iframe>
         <p>A lab-scale logistics demonstration was conducted to validate that the developed gripper can selectively pick up and transport multiple objects together.</p>
@@ -79,7 +79,7 @@ This video explains the research motivation, the mechanism design of the propose
     <div class="column">
         <h3 class="title">Comparison - Single-Object Grasping</h3>
         <iframe width="100%" height="315"
-                src="https://www.youtube.com/embed/-rwAbY39Fcw?autoplay=1&mute=1&loop=1&playlist=-rwAbY39Fcw&controls=0"
+                src="https://www.youtube.com/embed/-rwAbY39Fcw?autoplay=1&mute=1&loop=1&playlist=-rwAbY39Fcw&controls=1&fs=1"
                 frameborder="0" allowfullscreen>
         </iframe>
         <p>Compared to the same demonstration performed with single-object grasping, the proposed multi-object gripper reduced the end-effector's travel distance by approximately 71% and the overall process time by about 34%.</p>
@@ -93,7 +93,7 @@ This video explains the research motivation, the mechanism design of the propose
     <div class="column">
         <h3 class="title">Demo - Domestics</h3>
         <iframe width="100%" height="315"
-                src="https://www.youtube.com/embed/5ofxzuH4yJU?autoplay=1&mute=1&loop=1&playlist=5ofxzuH4yJU&controls=0"
+                src="https://www.youtube.com/embed/5ofxzuH4yJU?autoplay=1&mute=1&loop=1&playlist=5ofxzuH4yJU&controls=1&fs=1"
                 frameborder="0" allowfullscreen>
         </iframe>
         <p>To verify that the proposed gripper can place the stored objects in their desired locations, we demonstrated a gripper tidying up a cluttered desk in a domestic environment.</p>
@@ -103,7 +103,7 @@ This video explains the research motivation, the mechanism design of the propose
     <div class="column">
         <h3 class="title">Pick and Place Various Objects</h3>
         <iframe width="100%" height="315"
-                src="https://www.youtube.com/embed/eDikWCNutgM?autoplay=1&mute=1&loop=1&playlist=eDikWCNutgM&controls=0"
+                src="https://www.youtube.com/embed/eDikWCNutgM?autoplay=1&mute=1&loop=1&playlist=eDikWCNutgM&controls=1&fs=1"
                 frameborder="0" allowfullscreen>
         </iframe>
         <p>The gripper also successfully grasped, stored, retrieved, and placed 23 different types of objects due to the adaptability of its fingers and conveyor palm.</p>
