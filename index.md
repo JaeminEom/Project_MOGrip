@@ -91,7 +91,7 @@ This video explains the research motivation, the mechanism design of the propose
 <div class="columns">
     <!-- Left Column: YouTube 비디오 (Visual Effects) -->
     <div class="column">
-        <h3 class="title">Demo - Domestics</h3>
+        <h3 class="title">Demo - Tidying Up a Desk</h3>
         <iframe width="100%" height="315"
                 src="https://www.youtube.com/embed/5ofxzuH4yJU?autoplay=1&mute=1&loop=1&playlist=5ofxzuH4yJU&controls=1&fs=1"
                 frameborder="0" allowfullscreen>
@@ -108,6 +108,32 @@ This video explains the research motivation, the mechanism design of the propose
         </iframe>
         <p>The gripper also successfully grasped, stored, retrieved, and placed 23 different types of objects due to the adaptability of its fingers and conveyor palm.</p>
     </div>
+</div>
+
+---
+
+## Grasp Strategy I – Hand Segmentation
+
+<div style="text-align: center;">
+    <img src="assets/Hand Segmentation.gif" alt="Animated GIF" width="100%">
+</div>
+
+---
+
+## Grasp Strategy II – Finger-to-Palm and Palm-to-Finger Translation
+
+<div style="text-align: center;">
+    <img src="assets/Translation.gif" alt="Animated GIF" width="100%">
+</div>
+
+---
+
+## Mechanism Design
+
+<h3> What mechanism design enables a robotic gripper to effectively replicate human finger-to-palm and palm-to-finger translation? </h3>
+
+<div style="text-align: center;">
+    <img src="assets/Mechanism.gif" alt="Animated GIF" width="100%">
 </div>
 
 ---
