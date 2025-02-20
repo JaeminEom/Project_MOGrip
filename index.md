@@ -135,7 +135,7 @@ This video explains the research motivation, the mechanism design of the propose
     <img src="assets/Translation.gif" alt="Animated GIF" width="100%">
 </div>
 <div style="text-align: center;">
-    <img src="assets/Translation_word.png" alt="PNG Image" width="100%">
+    <img src="assets/Translation_word.png" alt="PNG Image" width="92%" style="margin-left: 12px;">
 </div>
 
 ---
