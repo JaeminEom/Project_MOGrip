@@ -57,7 +57,7 @@ This video explains the research motivation, the mechanism design of the propose
 
 <div align="center">
     <iframe width="720" height="405" 
-            src="https://www.youtube.com/embed/qFD562zo4Vk" 
+            src="https://www.youtube.com/embed/qFD562zo4Vk?autoplay=1&mute=1&loop=1&playlist=qFD562zo4Vk&controls=1&fs=1" 
             frameborder="0" allowfullscreen>
     </iframe>
 </div>
@@ -114,8 +114,17 @@ This video explains the research motivation, the mechanism design of the propose
 
 ## Grasp Strategy I – Hand Segmentation
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <div style="width: 45%;">
+        <img src="assets/Segment_hand.png" alt="PNG Image" width="100%">
+    </div>
+    <div style="width: 50%;">
+        <img src="assets/Segment.gif" alt="Animated GIF" width="100%">
+    </div>
+</div>
+
 <div style="text-align: center;">
-    <img src="assets/Hand Segmentation.gif" alt="Animated GIF" width="100%">
+    <img src="assets/Segment_word.png" alt="PNG Imgae" width="100%">
 </div>
 
 ---
@@ -124,6 +133,9 @@ This video explains the research motivation, the mechanism design of the propose
 
 <div style="text-align: center;">
     <img src="assets/Translation.gif" alt="Animated GIF" width="100%">
+</div>
+<div style="text-align: center;">
+    <img src="assets/Translation_word.png" alt="PNG Image" width="100%">
 </div>
 
 ---
